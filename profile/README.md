@@ -6,4 +6,4 @@ Here at the Shitcoin Society we work on projects that favor the brave
 
 ## Projects
 
-Our first project is [tegridy.farm](https://tegridy.farm) - creating the legal framework for world's largest not-for-profit cannabis crowd-growing project
+Our first project is [tegridy.farm](https://tegridy.farm) - creating the legal framework for the world's largest not-for-profit open source cannabis crowd-growing platform

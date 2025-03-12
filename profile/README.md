@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-Here at the Shitcoin Society we build apps that favor the brave
+Here at the Shitcoin Society we work on projects that favor the brave
 
 ## Projects
 

@@ -4,6 +4,6 @@
 
 Here at the Shitcoin Society we build apps that favor the brave
 
-## Portfolio
+## Projects
 
-Our first project will be launching soon. Stay tuned.
+Our first project is tegridy.farm - the world's largest not-for-profit cannabis crowd-growing farm

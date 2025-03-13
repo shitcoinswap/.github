@@ -2,11 +2,11 @@
 
 # Welcome to the Shitcoin Society
 
-Here at the Shitcoin Society we work on projects that favor the brave
+Here at the Shitcoin Society we work on projects that favor the brave 😏
 
 ## Projects
 
-Our first project is [tegridy.farm](https://tegridy.farm) - researching legal frameworks to build the world's largest not-for-profit crowd-growing platform
+Our first project is [tegridy.farm](https://tegridy.farm) - a new startup on a mission to improve lives through the power of cannabis
 
 <a href="https://x.com/einbuhrmi/status/1899758885365526638" target="_blank">
   <img width="536" alt="Screenshot 2025-03-12 at 16 47 05" src="https://github.com/user-attachments/assets/753f8bf7-27f4-4f82-a46e-8fe92792155c" />

@@ -4,8 +4,6 @@
 
 Here at the Shitcoin Society we work on projects that favor the brave 😏
 
-Stay tuned for our first announcement
-
 <!--
 ## Projects
 

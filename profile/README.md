@@ -4,6 +4,9 @@
 
 Here at the Shitcoin Society we work on projects that favor the brave 😏
 
+Stay tuned for our first announcement
+
+<!--
 ## Projects
 
 Our first project is [tegridy.farm](https://tegridy.farm) - a new startup building a cannabis crowd-growing platform
@@ -12,3 +15,4 @@ Our first project is [tegridy.farm](https://tegridy.farm) - a new startup buildi
   <img width="536" alt="Screenshot 2025-03-12 at 16 47 05" src="https://github.com/user-attachments/assets/753f8bf7-27f4-4f82-a46e-8fe92792155c" />
 </a>
 
+-->

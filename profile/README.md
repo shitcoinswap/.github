@@ -7,8 +7,6 @@ Here at the Shitcoin Society we develop crypto currencies and use the proceeds t
 ## Projects in development
 
 - [DoltCoin](https://github.com/shitcoinsociety/doltcoin): A simple crypto-currency backed by Dolt.
-  
-- [Tegridy](https://tegridy.farm): A crowd-growing project.
 
 Interested in working with us? Reach out at [hello@shitcoinsociety.com](mailto:hello@shitcoinsociety.com).
 

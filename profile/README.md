@@ -2,11 +2,11 @@
 
 # Welcome to the Shitcoin Society
 
-Here at the Shitcoin Society we work on projects that favor the brave 😏
+Here at the Shitcoin Society we develop crypto currencies and use the proceeds to organize music festivals.
 
 ## Projects in development
 
-- [DoltCoin](https://doltcoin.com): A simple crypto-currency backed by Dolt.
+- [DoltCoin](https://github.com/shitcoinsociety/doltcoin): A simple crypto-currency backed by Dolt.
   
 - [Tegridy](https://tegridy.farm): A crowd-growing project.
 

@@ -4,6 +4,14 @@
 
 Here at the Shitcoin Society we work on projects that favor the brave 😏
 
+## Projects in development
+
+- [DoltCoin](https://doltcoin.com): A simple crypto-currency backed by Dolt.
+  
+- [Tegridy](https://tegridy.farm): A crowd-growing project.
+
+Interested in working with us? Reach out at [hello@shitcoinsociety.com](mailto:hello@shitcoinsociety.com).
+
 <!--
 ## Projects
 

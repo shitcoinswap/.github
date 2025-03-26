@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-Here at the Shitcoin Society we develop crypto currencies and use the proceeds to organize music festivals.
+We are developing an extensible open source trading platform
 
 ## Projects in development
 

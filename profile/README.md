@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-We are developing Shitcoin Swap, the extendable open source trading platform
+We are developing [Shitcoin Swap](https://www.shitcoinswap.com), the extendable open source trading platform
 
 ## Projects to be listed
 

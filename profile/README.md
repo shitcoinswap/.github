@@ -2,11 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-We are developing [Shitcoin Swap](https://www.shitcoinswap.com), the extendable open source trading platform
-
-## Projects to be listed
-
-- [DoltCoin](https://github.com/shitcoinsociety/doltcoin): A simple crypto-currency backed by Dolt.
+We are developing [Shitcoin Swap](https://www.shitcoinswap.com), the extendable open source trading platform.
 
 Interested in working with us? Reach out at [hello@shitcoinsociety.com](mailto:hello@shitcoinsociety.com).
 

@@ -2,7 +2,17 @@
 
 # Welcome to the Shitcoin Society
 
-We are developing [Shitcoin Swap](https://www.shitcoinswap.com), the extendable open source trading platform.
+## Current projects
+
+### [Shitcoin Swap](https://www.shitcoinswap.com)
+
+The extendable open-source trading platform, serving as an alternative to Binance, Kraken, Coinbase, etc.
+
+### [DoltCoin](https://www.doltcoin.com)
+
+A new crypto-currency designed to be simple and accessible, built on the [Dolt](https://github.com/dolthub/dolt) storage engine.
+
+## Work with us
 
 Interested in working with us? Reach out at [hello@shitcoinsociety.com](mailto:hello@shitcoinsociety.com).
 

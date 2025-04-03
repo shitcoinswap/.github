@@ -2,11 +2,13 @@
 
 # Welcome to the Shitcoin Society
 
+We build the platform that brings your blockchain to millions of people.
+
 ## Current projects
 
 ### [Shitcoin Swap](https://www.shitcoinswap.com)
 
-The extendable open-source trading platform, serving as an alternative to Binance, Kraken, Coinbase, etc.
+The extendable trading platform, serving as an open-source alternative to Kraken, Coinbase, etc.
 
 ### [DoltCoin](https://www.doltcoin.com)
 

@@ -8,7 +8,7 @@ We build the platform that brings your blockchain to millions of people.
 
 ### [Shitcoin Swap](https://www.shitcoinswap.com)
 
-The extendable trading platform, serving as an open-source alternative to Kraken, Coinbase, etc.
+The open source alternative to Coinbase, Kraken, etc. Built on [buhrmi's tech stack](https://github.com/buhrmi).
 
 ### [DoltCoin](https://www.doltcoin.com)
 

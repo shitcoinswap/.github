@@ -8,7 +8,7 @@ We build the platform that brings your blockchain to millions of people.
 
 ### [Shitcoin Swap](https://www.shitcoinswap.com)
 
-A self-hostable alternative to Coinbase, Kraken, etc. Built on [buhrmi's tech stack](https://github.com/buhrmi).
+An experimental, self-hostable alternative to Coinbase, Kraken, etc.
 
 ### [DoltCoin](https://www.doltcoin.com)
 

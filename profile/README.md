@@ -2,29 +2,6 @@
 
 # Welcome to the Shitcoin Society
 
-We build the platform that brings your blockchain to millions of people.
+We are building [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Coinbase, Kraken, etc.
 
-## Current projects
-
-### [Shitcoin Swap](https://www.shitcoinswap.com)
-
-An experimental, self-hostable alternative to Coinbase, Kraken, etc.
-
-### [DoltCoin](https://www.doltcoin.com)
-
-A new crypto-currency designed to be simple and accessible, built on the [Dolt](https://github.com/dolthub/dolt) storage engine.
-
-## Work with us
-
-Interested in working with us? Reach out at [hello@shitcoinsociety.com](mailto:hello@shitcoinsociety.com).
-
-<!--
-## Projects
-
-Our first project is [tegridy.farm](https://tegridy.farm) - a new startup building a cannabis crowd-growing platform
-
-<a href="https://x.com/einbuhrmi/status/1899758885365526638" target="_blank">
-  <img width="536" alt="Screenshot 2025-03-12 at 16 47 05" src="https://github.com/user-attachments/assets/753f8bf7-27f4-4f82-a46e-8fe92792155c" />
-</a>
-
--->
+Shitcoin Society is not yet officially incorporated. [Reach out](mailto:hello@buhrmi.de) if you're interested in joining the board as an early investor or founding member.

@@ -4,4 +4,4 @@
 
 We are building [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Coinbase, Kraken, etc.
 
-Shitcoin Society is not officially incorporated anywhere in the world. But feel free to [reach out](mailto:hello@buhrmi.de) if you're interested in becoming a shareholder in this venture.
+To claim your stake in our Revenue Share Token ($RST), please visit https://shitcoinswap.com/$RST.

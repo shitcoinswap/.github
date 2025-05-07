@@ -2,6 +2,9 @@
 
 # Welcome to the Shitcoin Society
 
-We are building [Shitcoin Swap](https://www.shitcoinswap.com), an open-source alternative to Coinbase, Kraken, etc.
+We are building [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap), an open-source alternative to Coinbase, Kraken, etc. 
 
-To join the community, and claim your stake in our Revenue Share Token ($RST), please visit https://shitcoinswap.com/$RST.
+To claim your stake in our Revenue Share Token ($RST), head on over to [https://www.shitcoinswap.com/$RST](https://www.shitcoinswap.com/$RST).
+
+
+

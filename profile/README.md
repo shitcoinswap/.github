@@ -4,5 +4,11 @@
 
 We are building [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap), the open-source alternative to Coinbase, Kraken, etc. 
 
-To support this project, please consider becoming a shareholder by purchasing our [Revenue Share Token ($RST)](https://www.shitcoinswap.com/$rst).
 
+    Legal Information persuant to § 5 Telemedia Act (Impressum)
+
+    Shitcoin Society
+    Stefan Buhrmester
+    Im Lachmahd 15
+    89428 Syrgenstein
+    support@shitcoinsociety.com

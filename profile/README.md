@@ -2,13 +2,6 @@
 
 # Welcome to the Shitcoin Society
 
-We are building [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap), the open-source alternative to Coinbase, Kraken, etc. 
+We are building the open-source alternative to Coinbase, Kraken, etc.
 
-
-    Legal Information persuant to § 5 Telemedia Act (Impressum)
-
-    Shitcoin Society
-    Stefan Buhrmester
-    Im Lachmahd 15
-    89428 Syrgenstein
-    support@shitcoinsociety.com
+Follow our progress on https://github.com/shitcoinsociety/shitcoinswap

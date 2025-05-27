@@ -4,7 +4,7 @@
 
 We are building the open-source alternative to Coinbase, Kraken, etc.
 
-For this purpose we are issuing the Revenue Shart Token ($RST). The allocation is as follows:
+For this purpose we are issuing the Revenue Share Token ($RST). The allocation is as follows:
 
 <img width="542" alt="image" src="https://github.com/user-attachments/assets/8f370cbb-acb8-4c2b-bf44-c6eb5b5fc305" />
 

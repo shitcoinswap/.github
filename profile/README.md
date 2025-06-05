@@ -2,8 +2,6 @@
 
 # Welcome to the Shitcoin Society
 
-We aim to unlock financial freedom for everybody with a completely new blockchain and the greatest fundraising app the world has ever seen.
-
-Everything built in public with nothing to hide.
+Join us as we unlock financial freedom for everybody with a completely new blockchain and the world's largest fundraising project. Open source. Built in public.
 
 https://www.shitcoinsociety.com

@@ -2,6 +2,6 @@
 
 # Welcome to the Shitcoin Society
 
-Join us as we unlock financial freedom for everybody with a completely new blockchain and the world's largest fundraising project. Open source. Built in public.
+Join us in the new era of financial freedom. Secure your spot in the genesis ledger of a completely new blockchain. Open source. Built in public.
 
 https://www.shitcoinsociety.com

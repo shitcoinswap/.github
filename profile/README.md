@@ -4,6 +4,10 @@
 
 Join us in the new era of financial freedom. Secure your spot in the genesis ledger of a completely new blockchain. Open source. Built in public.
 
-[![thumbnail](https://github.com/user-attachments/assets/d8ef0504-9c88-45e9-a9f6-0da1875b5193)](https://www.youtube.com/watch?v=dZUlc90mpnM)
+## What's happening?
+
+![thumbnail](https://github.com/user-attachments/assets/5b932d58-58c4-4d38-a4b5-cff5a0ae137d)
+
+Well, congratulations. The code on your card secures your slot in our genesis ledger. Keep it for now, you'll need it soon.
 
 https://www.shitcoinsociety.com

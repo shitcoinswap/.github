@@ -2,4 +2,4 @@
 
 # Welcome to the Shitcoin Society
 
-Join the team and unlock financial freedom for everybody. Secure your spot in the genesis ledger of a completely new blockchain and usher in a new era of financial independence.
+We unlock the financial future for everybody. Secure your spot in the genesis ledger of a completely new blockchain, created by the Shitcoin Society.

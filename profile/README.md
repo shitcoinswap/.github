@@ -2,6 +2,6 @@
 
 # Welcome to the Shitcoin Society
 
-We unlock the financial future for everybody. Secure your spot in the genesis ledger of a completely new blockchain, created by the Shitcoin Society.
+Secure your spot in the genesis ledger of a completely new blockchain, and enjoy a new financial future. 
 
 COMING SOON

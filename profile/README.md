@@ -25,3 +25,7 @@ Migration of centralized $RST to a blockchain token.
 ### Stage 3
 
 Launch of new layer 1 blockchain, using $RST holder addresses to seed the genesis block.
+
+## Join the board
+
+Reach out to [presale@shitcoinsociety.com](mailto:presale@shitcoinsociety.com) to participate in the **private presale**.

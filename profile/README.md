@@ -10,22 +10,3 @@ We are building the worlds most awesome open-source trading platform. And with $
 
 Congratulations! You are a part of the Shitcoin Society. Soon you'll be able to redeem your code on shitcoinsociety.com, and include your wallet address in our genesis ledger (see below).
 
-## Roadmap
-
-The development of the Shitcoin Society platform happens in three stages:
-
-### Stage 1
-
-Development of open source trading platform, allowing for trade of $RST in a centralized manner.
-
-### Stage 2
-
-Migration of centralized $RST to a blockchain token.
-
-### Stage 3
-
-Launch of new layer 1 blockchain, using $RST holder addresses to seed the genesis block.
-
-## Join the board
-
-Reach out to [presale@shitcoinsociety.com](mailto:presale@shitcoinsociety.com) to participate in the **private presale**.

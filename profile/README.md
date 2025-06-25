@@ -2,7 +2,7 @@
 
 # Shitcoin Society is sunsetting
 
-Thank you so much for you interest in the Shitcoin Society. We are both happy and sad to announce that the Shitcoin Society will be sunsetting, as we focus our efforts on supporting the [SmartCoin Development Foundation](https://www.smartcoin.dev). See you on the other side.
+Thank you so much for you interest in the Shitcoin Society. We are both happy and sad to announce that the Shitcoin Society will be sunsetting. While the company name was extremely fun, it proved to be difficult - impossible, even - to onboard B2B customers. Turns out, most businesses simply don't share our kind of humor. But not all is lost. We learned our lessons, and offer the [SmartCoin Development Foundation](https://www.smartcoin.dev) for your consideration. See you on the other side.
 
 ## You got one of these?
 

@@ -4,7 +4,7 @@
 
 Thank you so much for you interest in the Shitcoin Society. Today, we are very happy and proud to announce Smartcoin, the open-source trading platform.
 
-Being open-source, Smartcoin will make it easy for blockchain developers to integrate with our exchange. New network integrations can be developed and submitted via a pull request - a first in the world of blockchain.
+Being open-source, Smartcoin will make it easy for blockchain developers to integrate. New network integrations can be developed and submitted via a pull request - a first in the world of blockchain.
 
 Visit https://www.smartcoin.dev for more information.
 

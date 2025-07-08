@@ -1,8 +1,8 @@
 ![ss](https://github.com/user-attachments/assets/f7c9919f-efd3-412f-a988-ed53d4e2b1b4)
 
-# Shitcoin Society is sunsetting
+# We are forming the Smartcoin Development Foundation
 
-Thank you so much for you interest in the Shitcoin Society. We are extremely happy to announce our first project: [SmartCoin](https://www.smartcoin.dev).
+Thank you so much for you interest in the Shitcoin Society. We are extremely happy and proud to announce our first project: [SmartCoin](https://www.smartcoin.dev). Come get spots in the genesis block and party with us.
 
 ## You got one of these?
 

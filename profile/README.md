@@ -2,7 +2,11 @@
 
 # Welcome to the Shitcoin Society
 
-We are putting together a new blockchain called Smartcoin. Visit https://www.smartcoin.dev for more information.
+Hope you're having a good day. We're developing the world's most amazing products.
+
+## Products
+
+- [SmartCoin](https://www.smartcoin.dev) - the world's largest crypto MLM
 
 ## You got one of these?
 

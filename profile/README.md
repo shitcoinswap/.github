@@ -8,11 +8,11 @@ Make sure to follow our [YouTube channel](https://youtube.com/@shitcoinswap) for
 
 ## Earn Passive Income
 
-All revenue - be it from token sales, trading, and listing fees - is being distributed to the *shareholders*. You can become a shareholder by acquiring Revenue Share Tokens ($RST).
+All revenue - be it from token sales, trading, and listing fees - is being distributed to the *shareholders*. You can become a shareholder by acquiring Shareholder Income Tokens.
 
-### Shareholder Token Information
+### Token Information
 
-Name: Revenue Share Token<br>
-Symbol: RST<br>
+Name: Shareholder Income Token<br>
+Symbol: SHIT<br>
 Max Supply: 420,000,000<br>
 Initial Supply: 420,000,000

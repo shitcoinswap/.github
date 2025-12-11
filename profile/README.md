@@ -2,6 +2,4 @@
 
 # Rave with us into the financial future
 
-Shitcoin Swap is an in-development crypto investment platform with a built-in trading engine. Created by shitcoiners, for shitcoiners.
-
-
+Shitcoin Swap is an in-development open-source crypto investment platform with a built-in trading engine. Created by shitcoiners, for shitcoiners.

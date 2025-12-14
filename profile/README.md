@@ -2,4 +2,4 @@
 
 # Rave with us into the financial future
 
-Shitcoin Swap is building the world's largest open-source crypto MLM with built-in trading engine. Created by shitcoiners, for shitcoiners.
+Shitcoin Swap is on a mission to build the world's largest open-source crypto and stock brokerage platform. Created by shitcoiners, for shitcoiners.

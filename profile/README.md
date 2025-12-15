@@ -2,6 +2,6 @@
 
 # Welcome to Shitcoin Swap
 
-The brokerage platform created by shitcoiners, for shitcoiners. Open source. Poop-branded. As things are ought to be.
+The brokerage platform created by shitcoiners, for shitcoiners. Open source. Poop-branded. They way things ought to be.
 
 The financial future never looked shittier.

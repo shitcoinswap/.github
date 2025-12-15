@@ -6,4 +6,4 @@ Shitcoin Swap is on a mission to build the world's largest open-source crypto an
 
 ## Repositories
 
-- [platform](/shitcoinswap/platform) - The code behind the Shitcoin Swap brokerage platform
+- [platform](https://github.com/shitcoinswap/platform) - The code behind the Shitcoin Swap brokerage platform

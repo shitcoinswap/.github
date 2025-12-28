@@ -2,6 +2,8 @@
 
 # Welcome to Shitcoin Swap
 
-Shitcoin Swap is an in-development open source brokerage platform, capable of natively interacting with any blockchain or digital ledger network, as well as plugging into traditional finance APIs.
+Shitcoin Swap is an in-development open source brokerage platform, capable of natively interacting with blockchains and digital ledger networks, as well as plugging into traditional finance APIs.
 
-You can follow its development on [YouTube](https://youtube.com/@shitcoinswap) and on [Twitch](https://twitch.tv/einbuhrmi). Come say hi!
+It's very early in development, but feel free to check out a demo [here](https://app.shitcoinswap.com), or grab the source code [here](https://github.com/shitcoinswap/platform).
+
+You can follow the development progress on [YouTube](https://youtube.com/@shitcoinswap) and [Twitch](https://twitch.tv/einbuhrmi). Come say hi!
